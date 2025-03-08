@@ -1,3 +1,6 @@
-# Header 1
+# Start Markdown
 
-I am updating content in the index.md file. 
+
+![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+Learning to add an image in Github!
